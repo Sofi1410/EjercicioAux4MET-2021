@@ -4,7 +4,7 @@
    
 Un inch es una métrica para medir distancias.
 
-El objetivo de esta mini-tarea es  definir al menos 2 clases, Meter, Inch para sumar valores
+El objetivo de esta mini-tarea es definir al menos 2 clases, Meter, Inch para sumar valores
 de diferentes unidades. Además, su código tiene que estar acompañado con unit test que
 prueben los siguientes ejemplos de conversiones:
 
@@ -20,4 +20,4 @@ Se recuerda que
 
     1 metro = 39.37 inches y 1 inch = 0.0254 metros
 
-#####Enunciado creado el 2020-1 por el profesor Alexandre Bergel
+##### Enunciado creado el 2020-1 por el profesor Alexandre Bergel
