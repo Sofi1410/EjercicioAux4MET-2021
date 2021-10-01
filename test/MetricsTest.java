@@ -2,6 +2,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
+
 public class MetricsTest {
     private Inch prueba1;
     private Meter prueba2;
